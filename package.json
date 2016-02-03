@@ -1,5 +1,11 @@
 {
   "name": "resume",
   "version": "0.0.1",
-  "scripts": {}
+  "scripts": {},
+  "devDependencies": {
+    "browser-sync-brunch": "0.0.9",
+    "brunch": "^2.2.3",
+    "jade-pages-brunch": "^2.0.0",
+    "stylus-brunch": "^2.0.0"
+  }
 }
