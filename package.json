@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "scripts": {},
   "devDependencies": {
+    "jstransformer-stylus": "^1.0.0",
     "mimosa": "^2.3.32"
   }
 }
